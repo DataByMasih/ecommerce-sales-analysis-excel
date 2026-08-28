@@ -82,6 +82,9 @@ The final dashboard brings the main results together and includes:
 - Key Insights
 - Recommendations
 
+  ![E-Commerce Sales Dashboard](dashboard.png)
+
+
 ## Recommendations
 
 Based on the analysis:
